@@ -4,8 +4,8 @@
 
 #
 
-  | Software | Alternative | ⬅ |
-  |----------|-------------|----|
-  | <a href="https://github.com/LeBazarDeBryan/Zer0ffice#readme">Microsoft Office</a> | <a href="https://libreoffice.org/download/">LibreOffice</a> | <a href="https://www.openoffice.org/download/">OpenOffice</a> |
+  | Software | Alternative |
+  |----------|-------------|
+  | <a href="https://github.com/LeBazarDeBryan/Zer0ffice#readme">Microsoft Office</a> | <a href="https://libreoffice.org/download/">LibreOffice</a> / <a href="https://www.openoffice.org/download/">OpenOffice</a> |
 
 </div>
