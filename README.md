@@ -4,6 +4,8 @@
 
 #
 
+  Press Ctrl + F to Search for Software
+
   | Software | Alternative |
   |----------|-------------|
   | <a href="https://www.google.com/chrome/">Google Chrome</a> | <a href="https://download-chromium.appspot.com/">Chromium</a> |
