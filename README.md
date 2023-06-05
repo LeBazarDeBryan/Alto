@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Alto</h1>
   <p>Alternative to Software</p>
-
+  <img src="https://github.com/LeBazarDeBryan/Alto/actions/workflows/pages/pages-build-deployment/badge.svg" />
+  <br></br>
   Press Ctrl + F to Search for Software
 
 #
