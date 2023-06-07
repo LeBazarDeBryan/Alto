@@ -16,6 +16,6 @@
   | <a href="https://github.com/LeBazarDeBryan/Zer0ffice#readme">Microsoft Office</a> | <a href="https://libreoffice.org/download/">LibreOffice</a> / <a href="https://www.openoffice.org/download/">OpenOffice</a> |
   | <a href="https://lebazardebryan.github.io/Alto/windows/calc.html">Windows Calculator</a> | <a href="https://heldercorreia.bitbucket.io/speedcrunch/download.html">SpeedCrunch</a> |
   | <a href="https://lebazardebryan.github.io/Alto/windows/windbg.html">WinDbg</a> | <a href="https://www.resplendence.com/download/whocrashedSetup.exe">WhoCrashed</a> |
-  | <a href="https://github.com/marticliment/WingetUI/releases/latest/download/WingetUI.Installer.exe">Winget UI</a> | <a href="https://chocolatey.org/install#install-step2">Chocolatey</a> <a href="https://community.chocolatey.org/packages/ChocolateyGUI#individual">GUI</a> |
+  | <a href="https://github.com/microsoft/winget-cli/releases/latest">Winget</a> / <a href="https://github.com/marticliment/WingetUI/releases/latest/download/WingetUI.Installer.exe">UI</a> | <a href="https://chocolatey.org/install#install-step2">Chocolatey</a> / <a href="https://community.chocolatey.org/packages/ChocolateyGUI#individual">GUI</a> |
 
 </div>
